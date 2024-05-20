@@ -1,0 +1,18 @@
+D:\xx\kişiye özel belgeler\ali belgeler\dersler\vüsual studio project\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+D:\xx\kişiye özel belgeler\ali belgeler\dersler\vüsual studio project\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+D:\xx\kişiye özel belgeler\ali belgeler\dersler\vüsual studio project\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+D:\xx\kişiye özel belgeler\ali belgeler\dersler\vüsual studio project\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csprojResolveAssemblyReference.cache
+D:\xx\kişiye özel belgeler\ali belgeler\dersler\vüsual studio project\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+D:\xx\kişiye özel belgeler\ali belgeler\dersler\vüsual studio project\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+D:\xx\kişiye özel belgeler\ali belgeler\dersler\vüsual studio project\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+D:\xx\kişiye özel belgeler\ali belgeler\dersler\vüsual studio project\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+D:\xx\kişiye özel belgeler\ali belgeler\dersler\vüsual studio project\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+E:\xx\kişiye özel belgeler\ali belgeler\dersler\2.sınıf\internet tabanlı prgramlama\ÖDEVLER\satranç oyunu\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+E:\xx\kişiye özel belgeler\ali belgeler\dersler\2.sınıf\internet tabanlı prgramlama\ÖDEVLER\satranç oyunu\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+E:\xx\kişiye özel belgeler\ali belgeler\dersler\2.sınıf\internet tabanlı prgramlama\ÖDEVLER\satranç oyunu\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+E:\xx\kişiye özel belgeler\ali belgeler\dersler\2.sınıf\internet tabanlı prgramlama\ÖDEVLER\satranç oyunu\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+E:\xx\kişiye özel belgeler\ali belgeler\dersler\2.sınıf\internet tabanlı prgramlama\ÖDEVLER\satranç oyunu\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+E:\xx\kişiye özel belgeler\ali belgeler\dersler\2.sınıf\internet tabanlı prgramlama\ÖDEVLER\satranç oyunu\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csprojResolveAssemblyReference.cache
+E:\xx\kişiye özel belgeler\ali belgeler\dersler\2.sınıf\internet tabanlı prgramlama\ÖDEVLER\satranç oyunu\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+E:\xx\kişiye özel belgeler\ali belgeler\dersler\2.sınıf\internet tabanlı prgramlama\ÖDEVLER\satranç oyunu\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+E:\xx\kişiye özel belgeler\ali belgeler\dersler\2.sınıf\internet tabanlı prgramlama\ÖDEVLER\satranç oyunu\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
